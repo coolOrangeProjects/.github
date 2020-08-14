@@ -1,6 +1,6 @@
 ---
 name: coolOrange Standard UseCase
-about: Provides UserStory, Workflow, GivenWhenThen and Tasklist
+about: Provides UserStory, Workflow, GivenWhenThen, Tasklist and DevNotes
 title: ''
 labels: ''
 assignees: ''
