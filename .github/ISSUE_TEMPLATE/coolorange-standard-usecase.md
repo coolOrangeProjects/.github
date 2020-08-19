@@ -34,3 +34,6 @@ Assumption:
 | #  | 1. |  |
 
 ### Developer Notes
+- `Ressources to accelerate the implementation`
+- `possible approach to a solution`
+- `possible risks (e.g. prototype needed)
