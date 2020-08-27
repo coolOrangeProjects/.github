@@ -23,9 +23,9 @@ assignees: ''
 
 Assumption: 
 
-| GIVEN | WHEN | THEN |
-| - | - | - |
-|    |    |    |
+| # | GIVEN | WHEN | THEN |
+| - | - | - | - |
+| 1. |    |    |    |
 
 ### Task-list
 
