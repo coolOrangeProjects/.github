@@ -1,3 +1,13 @@
+---
+name: coolOrange Update Issue
+about: To manage an update project with all associated tasks
+title: 'Update from 20XX to 20XX for powerEvents, powerJobs Processor, VDS, powerGate'
+labels: ''
+assignees: ''
+
+---
+
+
 ### ToDo's
 
 - [ ] Request current code from customer/reseller
