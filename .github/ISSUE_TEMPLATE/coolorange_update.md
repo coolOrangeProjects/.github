@@ -19,3 +19,4 @@ assignees: ''
 - [ ] Add contact person to whom "update done" should be sent
 - [ ] Add code to Github
 - [ ] Plan into project schedule and assign developer to task
+- [ ] Add budget to track used time on
